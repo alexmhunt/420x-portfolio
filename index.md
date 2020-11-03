@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Alex Hunt's CS/IMGD420x Projects
 
 You can use the [editor on GitHub](https://github.com/alexmhunt/420x-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
